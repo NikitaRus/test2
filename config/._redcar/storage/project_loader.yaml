@@ -1,0 +1,7 @@
+--- 
+open_files: 
+  - application.rb
+  - boot.rb
+  - database.yml
+  - environment.rb
+  - routes.rb
